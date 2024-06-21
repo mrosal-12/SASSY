@@ -8,6 +8,29 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+    <form id="form">
+      <div class="field">
+        <label for="numfield">Num field</label>
+        <input type="number" name="numfield" value="0"/>
+      </div>
+      <div class="field">
+        <input type="checkbox" name="boolfield"/>
+        <label for="boolfield">Check box</label>
+      </div>
+      <div class="field">
+        <div class="option">
+          <input type="radio" name="optfield" value="optA"/>
+          <label for="optfield">Radio option A</label>
+        </div>
+        <div class="option">
+          <input type="radio" name="optfield" value="optB"/>
+          <label for="optfield">Radio option B</label>
+        </div>
+      </div>
+      <input type="submit"/>
+    </form>
+    <hr/>
+    <div id="debug"></div>
     <script src="index.js"></script>
   </body>
 </html>
