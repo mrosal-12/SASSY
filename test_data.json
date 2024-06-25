@@ -1,0 +1,4695 @@
+[
+    {
+        "metadata": {
+            "bot": 2471,
+            "match": 2
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 1,
+            "teleop-speaker": 3,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2990,
+            "match": 1
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 753,
+            "match": 4
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5975,
+            "match": 2
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 5
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 2
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 6,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4662,
+            "match": 2
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2811,
+            "match": 11
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2990,
+            "match": 7
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 3,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5295,
+            "match": 1
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9430,
+            "match": 2
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 6,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6465,
+            "match": 3
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 1
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 1,
+            "teleop-speaker": 2,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9430,
+            "match": 7
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4692,
+            "match": 5
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9680,
+            "match": 3
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 4
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 1,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage (spotlit)",
+            "endgame-trap": true,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6845,
+            "match": 9
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4060,
+            "match": 11
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 10
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6696,
+            "match": 4
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 4,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 5
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 2,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3673,
+            "match": 6
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2374,
+            "match": 6
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 3,
+            "teleop-speaker": 3,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9600,
+            "match": 7
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2898,
+            "match": 1
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 3,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4060,
+            "match": 4
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2471,
+            "match": 9
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 4,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3024,
+            "match": 11
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3024,
+            "match": 5
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4488,
+            "match": 9
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 6,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6343,
+            "match": 3
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 7,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 753,
+            "match": 8
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 10
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 10
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9430,
+            "match": 13
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4488,
+            "match": 13
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 7,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9600,
+            "match": 1
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 7
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 1,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5970,
+            "match": 8
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6343,
+            "match": 8
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 4,
+            "teleop-speaker": 0,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 13
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "onstage (spotlit)",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 12
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 5,
+            "teleop-speaker": 1,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4692,
+            "match": 12
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 2,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 753,
+            "match": 14
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 997,
+            "match": 5
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5975,
+            "match": 8
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2898,
+            "match": 8
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 5,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3636,
+            "match": 12
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 997,
+            "match": 12
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4662,
+            "match": 12
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 14
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 5,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2811,
+            "match": 3
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 0,
+            "teleop-speaker": 8,
+            "endgame-status": "onstage (spotlit)",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6696,
+            "match": 11
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": true,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 5
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 3,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3636,
+            "match": 6
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4043,
+            "match": 10
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 5,
+            "teleop-speaker": 4,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4692,
+            "match": 6
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 5,
+            "teleop-speaker": 1,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5295,
+            "match": 9
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 9
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 9,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6443,
+            "match": 10
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6443,
+            "match": 14
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 4,
+            "teleop-speaker": 6,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 2
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2635,
+            "match": 11
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2811,
+            "match": 21
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 16
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2374,
+            "match": 18
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5975,
+            "match": 17
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2898,
+            "match": 18
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 997,
+            "match": 22
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2521,
+            "match": 16
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 2,
+            "teleop-speaker": 4,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3636,
+            "match": 21
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 2,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6696,
+            "match": 26
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 4,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2471,
+            "match": 31
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 4,
+            "teleop-speaker": 5,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4127,
+            "match": 18
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5970,
+            "match": 20
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4060,
+            "match": 24
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 997,
+            "match": 17
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6465,
+            "match": 31
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 21
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9600,
+            "match": 23
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3636,
+            "match": 17
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 4,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6443,
+            "match": 20
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 5,
+            "teleop-amp": 5,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4043,
+            "match": 21
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 5,
+            "teleop-speaker": 2,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2990,
+            "match": 22
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4488,
+            "match": 26
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 7,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 29
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 1,
+            "teleop-speaker": 1,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9600,
+            "match": 32
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 23
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 11,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 27
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6845,
+            "match": 32
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9600,
+            "match": 18
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3673,
+            "match": 19
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 21
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 3,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2471,
+            "match": 27
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 3,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3024,
+            "match": 28
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4127,
+            "match": 29
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2898,
+            "match": 31
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9680,
+            "match": 19
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 29
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3024,
+            "match": 32
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2990,
+            "match": 30
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 4,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2521,
+            "match": 32
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 5,
+            "teleop-amp": 2,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5970,
+            "match": 33
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 15
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 1,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4043,
+            "match": 16
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 4,
+            "teleop-speaker": 2,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6845,
+            "match": 17
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4662,
+            "match": 16
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5295,
+            "match": 17
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 28
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 18
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 5,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9680,
+            "match": 25
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4043,
+            "match": 25
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 5,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4060,
+            "match": 30
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 5,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2374,
+            "match": 30
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4488,
+            "match": 31
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 1,
+            "teleop-speaker": 7,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4488,
+            "match": 20
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6465,
+            "match": 21
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 22
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2521,
+            "match": 28
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 3,
+            "teleop-speaker": 7,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 753,
+            "match": 29
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 30
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4127,
+            "match": 33
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4662,
+            "match": 20
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6845,
+            "match": 22
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6343,
+            "match": 23
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 1,
+            "auto-speaker": 0,
+            "teleop-amp": 5,
+            "teleop-speaker": 0,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2898,
+            "match": 26
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 3,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2635,
+            "match": 28
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4692,
+            "match": 35
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 4,
+            "teleop-speaker": 0,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 35
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 3,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2990,
+            "match": 40
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 38
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 4,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4043,
+            "match": 50
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 4,
+            "teleop-speaker": 3,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4060,
+            "match": 33
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 34
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 997,
+            "match": 33
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 37
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2521,
+            "match": 47
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 7,
+            "teleop-speaker": 7,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 52
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 2,
+            "teleop-speaker": 4,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2635,
+            "match": 43
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 0,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 50
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 39
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2811,
+            "match": 40
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 4,
+            "teleop-speaker": 1,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 54
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 55
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4043,
+            "match": 55
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 5,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9430,
+            "match": 45
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 51
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 40
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 55
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5975,
+            "match": 35
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 34
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2521,
+            "match": 42
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 7,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 39
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6443,
+            "match": 36
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 3,
+            "teleop-speaker": 5,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4662,
+            "match": 37
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2635,
+            "match": 35
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5295,
+            "match": 36
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4060,
+            "match": 37
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4488,
+            "match": 37
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 3,
+            "teleop-speaker": 3,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6696,
+            "match": 38
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 1,
+            "teleop-speaker": 3,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 49
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 3,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3636,
+            "match": 53
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4043,
+            "match": 55
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 5,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6343,
+            "match": 46
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2990,
+            "match": 44
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5970,
+            "match": 53
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4127,
+            "match": 55
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4043,
+            "match": 37
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 3,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 997,
+            "match": 38
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3636,
+            "match": 43
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2374,
+            "match": 51
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 4,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4662,
+            "match": 52
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 5,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 40
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2635,
+            "match": 39
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6696,
+            "match": 44
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 45
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 1,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2374,
+            "match": 45
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 6,
+            "teleop-speaker": 0,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 36
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 36
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 5,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 47
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 5,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9680,
+            "match": 48
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9680,
+            "match": 52
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 35
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 54
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 1,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 41
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 4,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 48
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 3,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5975,
+            "match": 53
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3636,
+            "match": 53
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 2,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2471,
+            "match": 54
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 3,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 56
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 3,
+            "teleop-speaker": 1,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3024,
+            "match": 55
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 70
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 2,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6443,
+            "match": 56
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 5,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 62
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2990,
+            "match": 63
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4692,
+            "match": 63
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 5,
+            "teleop-speaker": 0,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6695,
+            "match": 60
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2521,
+            "match": 63
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 3,
+            "teleop-speaker": 4,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 957,
+            "match": 57
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2811,
+            "match": 57
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 997,
+            "match": 62
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2811,
+            "match": 62
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 11,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2635,
+            "match": 64
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 68
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 70
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9430,
+            "match": 70
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4127,
+            "match": 56
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4662,
+            "match": 71
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 7,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5975,
+            "match": 72
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 1,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2990,
+            "match": 63
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6443,
+            "match": 69
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 2,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6845,
+            "match": 70
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5970,
+            "match": 71
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2471,
+            "match": 72
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 2,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 7034,
+            "match": 61
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 64
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 3,
+            "teleop-speaker": 1,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9680,
+            "match": 68
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6343,
+            "match": 71
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6845,
+            "match": 58
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 60
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 4,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3636,
+            "match": 62
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 62,
+            "match": 65
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3024,
+            "match": 67
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9567,
+            "match": 69
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6443,
+            "match": 61
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 4,
+            "teleop-speaker": 6,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2811,
+            "match": 69
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 1,
+            "teleop-speaker": 6,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2898,
+            "match": 71
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 5,
+            "teleop-speaker": 0,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5975,
+            "match": 62
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4662,
+            "match": 57
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 61
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 3,
+            "teleop-amp": 4,
+            "teleop-speaker": 3,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2733,
+            "match": 65
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 2,
+            "teleop-amp": 5,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2521,
+            "match": 68
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 5,
+            "teleop-amp": 3,
+            "teleop-speaker": 9,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 60
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 1,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2550,
+            "match": 65
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 2,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1425,
+            "match": 66
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 3,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": true,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3673,
+            "match": 63
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 1,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 6466,
+            "match": 66
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 4,
+            "endgame-status": "harmony",
+            "endgame-trap": false,
+            "intakes-from": "both",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 1540,
+            "match": 57
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 5,
+            "teleop-speaker": 5,
+            "endgame-status": "attempted but failed",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4692,
+            "match": 72
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 3,
+            "teleop-speaker": 2,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2374,
+            "match": 66
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 4,
+            "teleop-amp": 5,
+            "teleop-speaker": 2,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 5296,
+            "match": 71
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 3,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 9680,
+            "match": 60
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 0,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": true
+        }
+    },
+    {
+        "metadata": {
+            "bot": 2898,
+            "match": 61
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 4,
+            "teleop-speaker": 1,
+            "endgame-status": "not attempted",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 3673,
+            "match": 67
+        },
+        "data": {
+            "auto-left-starting-zone": false,
+            "auto-amp": 0,
+            "auto-speaker": 0,
+            "teleop-amp": 0,
+            "teleop-speaker": 2,
+            "endgame-status": "parked",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 753,
+            "match": 68
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 2,
+            "teleop-speaker": 0,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "floor",
+            "died": false,
+            "tippy": false,
+            "dropped-notes": false
+        }
+    },
+    {
+        "metadata": {
+            "bot": 4060,
+            "match": 72
+        },
+        "data": {
+            "auto-left-starting-zone": true,
+            "auto-amp": 0,
+            "auto-speaker": 1,
+            "teleop-amp": 0,
+            "teleop-speaker": 6,
+            "endgame-status": "onstage",
+            "endgame-trap": false,
+            "intakes-from": "source",
+            "died": false,
+            "tippy": true,
+            "dropped-notes": false
+        }
+    }
+]
