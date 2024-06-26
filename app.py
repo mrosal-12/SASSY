@@ -1,5 +1,6 @@
 import statistics  # noqa: F401
 import pandas as pd
+import json
 
 import streamlit as st
 
@@ -72,4 +73,14 @@ with st.container(border=True):
 
 
 "## Raw Data"
-st.dataframe(get_data())
+json_str = json.dumps(get_data())
+
+st.download_button(
+    label="Download JSON",
+    file_name="data.json",
+    mime="application/json",
+    data=json_str,
+    use_container_width=True
+)
+
+st.dataframe(get_data(), use_container_width=True)
