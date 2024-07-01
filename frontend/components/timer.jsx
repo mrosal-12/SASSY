@@ -1,7 +1,7 @@
 import { useRef, useState, useEffect } from 'preact/hooks'
 
 
-export function Timer({values, setValues}) {
+export default function Timer({values, setValues}) {
   const [time, setTime] = useState(0)
 
   const prevTimeRef = useRef(null)
@@ -12,16 +12,13 @@ export function Timer({values, setValues}) {
   const onFrame = () => {
     const time = performance.now()
     if (prevTimeRef.current !== null) {
-      const deltaTime = time - prevTimeRef.current;
+      const deltaTime = time - prevTimeRef.current
       setTime((time) => time + deltaTime)
     }
     prevTimeRef.current = time
 
     requestRef.current = requestAnimationFrame(onFrame)
   }
-
-  //handle unmount
-  useEffect(() => () => { cancelAnimationFrame(requestRef.current) }, [])
 
   const onStart = () => {
     prevTimeRef.current = performance.now()
@@ -50,8 +47,19 @@ export function Timer({values, setValues}) {
     setValues([])
   }
 
+  //handle value clear
+  useEffect(() => {
+    if (values.length === 0) {
+      onStop()
+      setTime(0)
+    }
+  }, [values])
+
+  //handle unmount
+  useEffect(() => () => { cancelAnimationFrame(requestRef.current) }, [])
+
   return (
-    <>
+    <div class="field">
       <p>{`${Math.floor(time/1000/60)}`.padStart(2, '0')}:{(time / 1000 % 60).toFixed(2).padStart(5, '0')}</p>
       <button disabled={running} onClick={onStart}>Start</button>
       <button disabled={!running} onClick={onAddTime}>Add Time</button>
@@ -66,6 +74,6 @@ export function Timer({values, setValues}) {
           <p style={{margin: 'auto'}}>{values[values.length-1-index]}</p>
         ))}
       </div>
-    </>
+    </div>
   )
 }
