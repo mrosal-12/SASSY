@@ -4,7 +4,6 @@ import { useRef, useState, useEffect } from 'preact/hooks'
 export function Timer({values, setValues}) {
   const [time, setTime] = useState(0)
 
-  const startTimeRef = useRef(null)
   const prevTimeRef = useRef(null)
   const requestRef = useRef(null)
 
@@ -25,7 +24,7 @@ export function Timer({values, setValues}) {
   useEffect(() => () => { cancelAnimationFrame(requestRef.current) }, [])
 
   const onStart = () => {
-    startTimeRef.current = startTimeRef.current ?? performance.now()
+    prevTimeRef.current = performance.now()
     cancelAnimationFrame(requestRef.current)
     requestRef.current = requestAnimationFrame(onFrame)
     setRunning(true)
@@ -46,9 +45,8 @@ export function Timer({values, setValues}) {
   }
 
   const onClear = () => {
-    startTimeRef.current = null
-    prevTimeRef.current = null
-    setRunning(false)
+    onStop()
+    setTime(0)
     setValues([])
   }
 
@@ -62,9 +60,10 @@ export function Timer({values, setValues}) {
       ) || (
         <button type='button' onClick={onClear}>Clear</button>
       )}
-      <div style={{border: '1px solid black'}}>
-        {values.map((time) => (
-          <p>{time}</p>
+
+      <div style={{border: '1px solid black', width: '200px', height: '100px', overflowY: 'auto'}}>
+        {values.map((_, index) => (
+          <p style={{margin: 'auto'}}>{values[values.length-1-index]}</p>
         ))}
       </div>
     </>

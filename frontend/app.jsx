@@ -12,7 +12,7 @@ export function App() {
   const [timerValues, setTimerValues] = useState([])
 
   function getFormData() {
-    return { numValue, boolValue, optValue }
+    return { numValue, textValue, boolValue, optValue, timerValues }
 	}
 
   const onFormSubmit = (event) => {
