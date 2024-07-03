@@ -1,0 +1,28 @@
+{
+  "fields": [
+    {
+      "name": "numfield",
+      "label": "Num Field",
+      "input": "number"
+    },
+    {
+      "name": "textfield",
+			"label": "Text Field",
+			"input": "text"
+    },
+    {
+      "name": "boolfield",
+      "label": "Check box",
+      "input": "checkbox"
+    },
+    {
+      "name": "option",
+      "input": "radio",
+      "options": ["Option A", "Option B"]
+    },
+    {
+      "name": "times",
+      "input": "timer"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ export default function Checkbox({label, value, setValue}) {
 
   return (
     <div class="field">
-      <input id={id} type="checkbox" checked={value} onChange={() => setValue((x) => !x)} />
+      <input id={id} type="checkbox" checked={value} onChange={() => setValue(!value)} />
       <label for={id}>{label}</label>
     </div>
   )
