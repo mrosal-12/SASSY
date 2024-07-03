@@ -1,13 +1,17 @@
+# rememeber to import stuff b/f running
 import statistics  # noqa: F401
 import pandas as pd
 import json
 
 import streamlit as st
+from camera_input_live import camera_input_live
 
-from data import load, get_data, set_data  # noqa: F401
+from data import load, get_data, set_data, add_data  # noqa: F401
 from stats import per_team_stats  # noqa: F401
 from query import query  # noqa: F401
 from funcs import all_funcs  # noqa: F401
+from processing import process
+from decoding import decode
 
 # always run this first
 load()
@@ -15,7 +19,9 @@ load()
 # initializing state variables
 if 'queries' not in st.session_state:
     st.session_state['queries'] = [{}]
-
+    
+if 'scanning' not in st.session_state:
+    st.session_state.scanning = False
 
 "## Query"
 with st.container(border=True):
@@ -70,7 +76,24 @@ with st.container(border=True):
         re_formatted = pd.DataFrame(re.values(), index=re.keys())
         st.dataframe(re_formatted, use_container_width=True)
     
+"## Scan"
+def toggle_camera_on():
+    st.session_state.scanning = not st.session_state.scanning
 
+st.button("Scan", on_click=toggle_camera_on,use_container_width=True)
+
+if st.session_state.scanning:
+    img_file_buffer = camera_input_live(debounce=2500)
+
+    if img_file_buffer:
+        st.image(img_file_buffer)
+        process(img_file_buffer)
+        decoded_tuple = decode()
+        if len(decoded_tuple) > 0:
+            decoded_str = decoded_tuple[0]
+            st.write(decoded_str)
+            add_data(decoded_str)
+            st.session_state.scanning = False
 
 "## Raw Data"
 json_str = json.dumps(get_data())
