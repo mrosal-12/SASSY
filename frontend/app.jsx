@@ -1,3 +1,4 @@
+import { createRef } from 'preact'
 import { useState } from 'preact/hooks'
 import './app.css'
 
@@ -14,6 +15,7 @@ export default function App() {
   const [boolValue, setBoolValue] = useState(false)
   const [optValue, setOptValue] = useState('')
   const [timerValues, setTimerValues] = useState([])
+  const timerRef = createRef()
 
   function getFormData() {
     return { numValue, textValue, boolValue, optValue, timerValues }
@@ -29,7 +31,7 @@ export default function App() {
     setTextValue('')
     setBoolValue(false)
     setOptValue('')
-    setTimerValues([])
+    timerRef.current?.clear()
   }
 
   return (
@@ -38,7 +40,7 @@ export default function App() {
       <TextField label="Text field" value={textValue} setValue={setTextValue} />
       <Checkbox label="Check box" value={boolValue} setValue={setBoolValue} />
       <Radio options={['Option A', 'Option B']} value={optValue} setValue={setOptValue} />
-      <Timer values={timerValues} setValues={setTimerValues} />
+      <Timer ref={timerRef} values={timerValues} setValues={setTimerValues} />
       <button onClick={onSubmit}>Submit</button>
       <button onClick={onReset}>Reset</button>
       <hr/>

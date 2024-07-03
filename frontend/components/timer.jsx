@@ -1,7 +1,7 @@
 import { useRef, useState, useEffect } from 'preact/hooks'
+import { forwardRef, useImperativeHandle } from 'preact/compat'
 
-
-export default function Timer({values, setValues}) {
+const Timer = forwardRef(({values, setValues}, ref) => {
   const [time, setTime] = useState(0)
 
   const prevTimeRef = useRef(null)
@@ -47,13 +47,11 @@ export default function Timer({values, setValues}) {
     setValues([])
   }
 
-  //handle value clear
-  useEffect(() => {
-    if (values.length === 0) {
-      onStop()
-      setTime(0)
+  useImperativeHandle(ref, () => ({
+    clear() {
+      onClear()
     }
-  }, [values])
+  }))
 
   //handle unmount
   useEffect(() => () => { cancelAnimationFrame(requestRef.current) }, [])
@@ -76,4 +74,6 @@ export default function Timer({values, setValues}) {
       </div>
     </div>
   )
-}
+})
+
+export default Timer
