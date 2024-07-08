@@ -40,6 +40,7 @@ export default function App() {
   const [fore, setFore] = useState('#000000')
   const [size, setSize] = useState('256')
 
+
   const refs = {}
   const resetHandlers = []
   for (const field of config.fields) {
@@ -97,7 +98,7 @@ export default function App() {
 	      bgColor = {back}
 	      fgColor = {fore}
 	      size = {size === '' ?? 0 : size}
-	/>
+	   />
       <pre>{JSON.stringify(userData, null, 2)}</pre>
     </>
   )
