@@ -1,6 +1,7 @@
 import { createRef } from 'preact'
 import { useState } from 'preact/hooks'
 import './app.css'
+import QRCode from 'react-qr-code'
 
 import NumField from './components/numfield.jsx'
 import TextField from './components/textfield.jsx'
@@ -35,6 +36,9 @@ export default function App() {
   }
 
   const [userData, setUserData] = useState(defaultData)
+  const [back, setBack] = useState('#FFFFFF')
+  const [fore, setFore] = useState('#000000')
+  const [size, setSize] = useState('256')
 
 
   const refs = {}
@@ -88,6 +92,13 @@ export default function App() {
       <button onClick={onSubmit}>Submit</button>
       <button onClick={onReset}>Reset</button>
       <hr/>
+      <QRCode
+	      title = "QRCode"
+	      value = {JSON.stringify(getFormData(), null, 2)}
+	      bgColor = {back}
+	      fgColor = {fore}
+	      size = {size === '' ?? 0 : size}
+	   />
       <pre>{JSON.stringify(userData, null, 2)}</pre>
     </>
   )
