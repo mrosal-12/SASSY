@@ -48,8 +48,9 @@ const Timer = forwardRef(({values, setValues}, ref) => {
   }
 
   useImperativeHandle(ref, () => ({
-    clear() {
-      onClear()
+    restart() {
+      onStop()
+      setTime(0)
     }
   }))
 

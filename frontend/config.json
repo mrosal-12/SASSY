@@ -1,28 +1,149 @@
 {
-  "fields": [
+  "pages": [
     {
-      "name": "numfield",
-      "label": "Num Field",
-      "input": "number"
+      "title": "Prematch",
+      "fields": [
+        {
+          "name": "prematch_numfield",
+          "label": "Num Field",
+          "input": "number"
+        },
+        {
+          "name": "prematch_textfield",
+          "label": "Text Field",
+          "input": "text"
+        },
+        {
+          "name": "prematch_boolfield",
+          "label": "Check box",
+          "input": "checkbox"
+        },
+        {
+          "name": "prematch_option",
+          "input": "radio",
+          "options": ["Option A", "Option B"]
+        },
+        {
+          "name": "prematch_times",
+          "input": "timer"
+        }
+      ]
     },
     {
-      "name": "textfield",
-			"label": "Text Field",
-			"input": "text"
+      "title": "Auton",
+      "fields": [
+        {
+          "name": "auton_numfield",
+          "label": "Num Field",
+          "input": "number"
+        },
+        {
+          "name": "auton_textfield",
+          "label": "Text Field",
+          "input": "text"
+        },
+        {
+          "name": "auton_boolfield",
+          "label": "Check box",
+          "input": "checkbox"
+        },
+        {
+          "name": "auton_option",
+          "input": "radio",
+          "options": ["Option A", "Option B"]
+        },
+        {
+          "name": "auton_times",
+          "input": "timer"
+        }
+      ]
     },
     {
-      "name": "boolfield",
-      "label": "Check box",
-      "input": "checkbox"
+      "title": "Teleop",
+      "fields": [
+        {
+          "name": "teleop_numfield",
+          "label": "Num Field",
+          "input": "number"
+        },
+        {
+          "name": "teleop_textfield",
+          "label": "Text Field",
+          "input": "text"
+        },
+        {
+          "name": "teleop_boolfield",
+          "label": "Check box",
+          "input": "checkbox"
+        },
+        {
+          "name": "teleop_option",
+          "input": "radio",
+          "options": ["Option A", "Option B"]
+        },
+        {
+          "name": "teleop_times",
+          "input": "timer"
+        }
+      ]
     },
     {
-      "name": "option",
-      "input": "radio",
-      "options": ["Option A", "Option B"]
+      "title": "Endgame",
+      "fields": [
+        {
+          "name": "endgame_numfield",
+          "label": "Num Field",
+          "input": "number"
+        },
+        {
+          "name": "endgame_textfield",
+          "label": "Text Field",
+          "input": "text"
+        },
+        {
+          "name": "endgame_boolfield",
+          "label": "Check box",
+          "input": "checkbox"
+        },
+        {
+          "name": "endgame_option",
+          "input": "radio",
+          "options": ["Option A", "Option B"]
+        },
+        {
+          "name": "endgame_times",
+          "input": "timer"
+        }
+      ]
     },
     {
-      "name": "times",
-      "input": "timer"
+      "title": "Misc",
+      "fields": [
+        {
+          "name": "misc_numfield",
+          "label": "Num Field",
+          "input": "number"
+        },
+        {
+          "name": "misc_textfield",
+          "label": "Text Field",
+          "input": "text"
+        },
+        {
+          "name": "misc_boolfield",
+          "label": "Check box",
+          "input": "checkbox"
+        },
+        {
+          "name": "misc_option",
+          "input": "radio",
+          "options": ["Option A", "Option B"]
+        },
+        {
+          "name": "misc_times",
+          "input": "timer"
+        }
+      ]
     }
   ]
 }
