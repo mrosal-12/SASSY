@@ -67,11 +67,6 @@ export default function App() {
     setPageIndex(Math.max(0, pageIndex - 1))
   }
 
-  const onSubmit = (event) => {
-    event.preventDefault()
-    console.log('submit', userData)
-  }
-
   const onReset = () => {
     setPageIndex(0)
     setUserData(defaultData)
@@ -127,7 +122,6 @@ export default function App() {
               size="256"
             />
             <pre>{JSON.stringify(userData, null, 2)}</pre>
-            <button onClick={onSubmit}>Submit</button>
             <button onClick={onReset}>Restart</button>
           </>
         )}
