@@ -10,9 +10,9 @@ fn main() {
     let listener = TcpListener::bind("127.0.0.1:7878").unwrap();
 
     if let Ok(my_local_ip) = local_ip() {
-        println!("http://{:?}:7878", local_ip());
+        println!("http://{:?}:7878", my_local_ip);
     } else {
-        panic()!;
+        panic!();
     }
 
     for stream in listener.incoming() {
