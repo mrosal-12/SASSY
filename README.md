@@ -51,7 +51,7 @@ Install project dependencies.
 npm install
 ```
 
-All the files you need should now be on your computer.
+All the files you need should now be on your computer. It should look like this:
 
 If everything is working correctly, you can now view the demo site.
 
@@ -208,6 +208,16 @@ http://{a}:{b}, where {a} is the ip address of the device hosting this, while {b
 
 In order to cancel it, press `ctrl-c` in the terminal, then enter `Y`
 
+#### Example:
+With default configs, you should see this:
+![Screenshot](images/Capture1.PNG)
+
+Like in ScoutingPASS, the form has 5 sections, one for each period of the game (Prematch, Auto, Teleop, Endgame, and Postgame). You can adjust what fields are here in the configs
+
+The end of form should have this screen:
+![Screenshot](images/Capture3.PNG)
+
+It has the qrcode you need to scan and the raw data it outputs
 
 ## SASSY Host
 
@@ -216,16 +226,38 @@ In order to run the code, make sure you have the `streamlit`, `camera-input-live
 To download the package, run the following command:
 ```console
 > pip install streamlit
-```
-
-Once the streamlit package is downloaded, run the program with the following command:
-```console
-> streamlit run app.py
 > pip install streamlit-camera-input-live
 > pip install opencv-python
 > pip install qreader
 ```
 
-This should open up a new browser window where the program will be ran
+Once the streamlit package is downloaded, run the program with the following command:
+```console
+> streamlit run app.py
+```
+
+This should open up a new browser window where the program will be ran. If it worrks, the console will say this:
+![Screenshot](images/Capture4.PNG)
+And the browser will have thsi tab:
+![Screenshot](images/Capture5.PNG)
 
 **Note**: while the program runs in a browser window, it is still locally hosted and does not require internet connection.
+
+You can add new data with the "scan" function. When scanning for a qrcode, it will use your webcam, and look smoething like this:
+![Screenshot](images/Capture8.PNG)
+It will stop scanning once it finds a qr code, or when you hit the scan button again.
+
+If you want to limit data, use the query function too filter out undesirable results:
+![Screenshot](images/Capture6.PNG)
+![Screenshot](images/Capture7.PNG)
+
+**Note**: Make sure to add in the quotation marks on the key, as it will not wokr without them
+
+Finally, get results with the calculations feature:
+![Screenshot](images/Capture2.PNG)
+If you just want raw data, select "none." otherwise, select the function you want
+The syntaxt for entries is [data/metadata].[field]. In this example, I want to look for team numbers. "Bot" gives me that, and its in the metadata field, so I put metadata.bot
+
+
+## End
+Now that you're done, mess around with the configs and clear out test_data.json in order to make your own!
