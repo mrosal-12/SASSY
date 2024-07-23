@@ -248,15 +248,13 @@ You can add new data with the "scan" function. When scanning for a qrcode, it wi
 It will stop scanning once it finds a qr code, or when you hit the scan button again.
 
 If you want to limit data, use the query function too filter out undesirable results:
-![Screenshot](images/Capture6.PNG)
-![Screenshot](images/Capture7.PNG)
-
-**Note**: Make sure to add in the quotation marks on the key, as it will not wokr without them
+![Screenshot](images/Capture0.PNG)
 
 Finally, get results with the calculations feature:
 ![Screenshot](images/Capture2.PNG)
 If you just want raw data, select "none." otherwise, select the function you want
-The syntaxt for entries is [data/metadata].[field]. In this example, I want to look for team numbers. "Bot" gives me that, and its in the metadata field, so I put metadata.bot
+
+**Note** The syntaxt for entries for both querying and calculations is [data/metadata].[field]. In this example, I want to look for team numbers. "Bot" gives me that, and its in the metadata field, so I put metadata.bot
 
 
 ## End
